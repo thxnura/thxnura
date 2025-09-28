@@ -14,18 +14,25 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python, PHP, SQL  
-- **Frameworks & Tools:** Node.js, Next.js, Express.js, React, Tailwind CSS  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-- **Security:** Secure coding practices, penetration testing basics  
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java" />
+  <br/>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,tailwind" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" />
+</p>  
 
 ---
 
-### 📂 Featured Projects  
-🔹 [Project 1](#) – Secure web application with role-based access control  
-🔹 [Project 2](#) – AI-powered tool built with Node.js & OpenAI API  
-🔹 [Project 3](#) – Cloud-native app with Docker & AWS deployment  
+### 📌 Pinned  
+[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)](https://nextjs.org/)  
 
 ---
 
@@ -33,4 +40,5 @@
 🌐 [Portfolio](#) | 💼 [LinkedIn](#) | 🐦 [Twitter](#)  
 
 ---
+
 ⭐️ *“Building technology that is innovative, reliable, and secure.”*  
