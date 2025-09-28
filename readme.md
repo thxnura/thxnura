@@ -1,10 +1,36 @@
-<h1 align="center">Hi 👋, I'm Thanura</h1>
-<h3 align="center">A U/I developer & Cyber security researcher from Sri Lanka </h3>
+# Hi there 👋, I'm Thanura Peiris  
 
-## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and Tv shows
-- Read some manga
-- Play videogames
-- etc.
+🚀 **Lead Software Engineer @ Olee AI**  
+🎓 **BSc (Hons) in Cyber Security – SLIIT**  
 
+---
+
+### 👨‍💻 About Me  
+- Building **secure, scalable, and AI-powered software**  
+- Passionate about **secure coding, system design, and cloud solutions**  
+- Blending **cybersecurity principles** with **modern software engineering**  
+- Exploring **AI integrations** and **advanced software architecture**  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** JavaScript, TypeScript, Python, PHP, SQL  
+- **Frameworks & Tools:** Node.js, Next.js, Express.js, React, Tailwind CSS  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+- **Security:** Secure coding practices, penetration testing basics  
+
+---
+
+### 📂 Featured Projects  
+🔹 [Project 1](#) – Secure web application with role-based access control  
+🔹 [Project 2](#) – AI-powered tool built with Node.js & OpenAI API  
+🔹 [Project 3](#) – Cloud-native app with Docker & AWS deployment  
+
+---
+
+### 📫 Connect With Me  
+🌐 [Portfolio](#) | 💼 [LinkedIn](#) | 🐦 [Twitter](#)  
+
+---
+⭐️ *“Building technology that is innovative, reliable, and secure.”*  
